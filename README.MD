@@ -4,4 +4,4 @@
 
 # **Branch Contents:**
 
-##### [1] WEKA-Examples :  Collection of Java programs using WEKA. 
+##### [1] WEKA-Examples : Java ML programs using WEKA. 
